@@ -23,7 +23,7 @@ Welcome to my Github page! I am Aria and I am currently finishing my studies and
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=hikeGu&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
