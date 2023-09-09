@@ -19,7 +19,7 @@ Welcome to my Github page! I am Aria and I am currently finishing my studies and
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
-- Learning english
+- Learning English
 
 #### :computer: Programming languages and tools: 
 <p>
