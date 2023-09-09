@@ -1,21 +1,38 @@
-<h1align="center">嗨👋，我是 Aria</h1>
-<h3align="center">做一些有趣的事情</h3>
+### Hi there 👋 
+### This is Aria!
 
-<palign="left"> <img src="https:// /komarev.com/ghpvc/?username=hikegu&label=Profile%20views&color=0e75b6&style=flat" alt="hikegu" /> </p>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hikeGu)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://space.bilibili.com/402207507)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aulzine30@gmail.com)
 
-<palign="left"> <a href="https://github.com/komarev.com/ghpvc/?username=hikegu&label=Profile%20views&color=0e75b6&style=flat" alt="hikegu" /> com/ryo-ma/github-profile-tropy"><img src="https://github-profile-tropy.vercel.app/?username=hikegu" alt="hikegu" /></a> </ p>
+Welcome to my Github page! I am Aria and I am currently finishing my studies and do something interesting!  
 
-- 🔭 我目前正在**什么都不做**
+<img align="right" alt="img" src="https://github.com/hikeGu/my_repository/blob/main/40362f554865c04c9091ad6ecfdd6fc291916f2e.jpg_1256w_1256h__web-article-pic.png" width="50%" height="auto" />
 
-<h3align="left">与我联系：</h3>
-<palign="left">
+
+#### 🌱 Things I am currently working on: 
+- Finish my studies
+- Learn more interesting technologies
+- Run my channel [Bilibili](https://space.bilibili.com/402207507) 🚀 *Welcome to visit*
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Learning english
+
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img width="8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
+<br />
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 </p>
 
-<h3align="left">语言和工具：</h3>
-<palign="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql. com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt=" mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https ：//生的。githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikegu&show_icons=true&locale=en&layout=compact" alt="hikegu" /> </p>
-
-<p><imgalign="center"src="https://github-readme-stats.vercel.app/api?username=hikegu&show_icons=true&locale=en" alt="hikegu"/> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hikegu&" alt="hikegu" /></p>
