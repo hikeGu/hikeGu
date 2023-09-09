@@ -2,7 +2,7 @@
 ### This is Aria!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hikeGu)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://space.bilibili.com/402207507)
+[![Linkedin](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/402207507)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aulzine30@gmail.com)
 
 Welcome to my Github page! I am Aria and I am currently finishing my studies and do something interesting!  
