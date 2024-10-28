@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Aria and I am currently finishing my studies and do something interesting!  
 
-<img align="right" alt="img" src="[https://github.com/hikeGu/my_repository/blob/main/40362f554865c04c9091ad6ecfdd6fc291916f2e.jpg_1256w_1256h__web-article-pic.png](https://github.com/hikeGu/hikeGu/blob/main/asset/mixi.png)" width="50%" height="auto" />
+<img align="right" alt="img" src="https://raw.githubusercontent.com/hikeGu/hikeGu/refs/heads/main/asset/mixi.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
